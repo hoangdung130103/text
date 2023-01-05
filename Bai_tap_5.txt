@@ -1,0 +1,16 @@
+1. Account git hub A tạo một Repository trên github. Sau đó kết nối giữa Local Repo và Github Repo
+
+2. Mời một bạn khác account github B tham gia làm chung project này (giả sử bạn có thêm một địa chỉ mail nữa 
+hoặc một người bạn trong lớp)
+
+3. Account github B đồng ý làm chung project (vào mail confirm).
+ Clone code về, thêm vào một file và push code lên lại.
+
+4. Account github A và account github B pull code mới nhất về.
+
+5. Giả sử 2 người cùng sửa chung 1 file code. Sau đó push lên. Hãy quan sát và xử lý kết quả (conflict).
+
+
+
+
+

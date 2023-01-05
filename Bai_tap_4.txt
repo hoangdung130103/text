@@ -1,0 +1,9 @@
+Bài tập 4:
+1. Tạo một Repository trên github. Sau đó kết nối giữa Local Repo và Github Repo
+
+2. Dùng lệnh git push để push code lên reposiotory github.
+
+3. Qua thư mục khác hoặc một máy tính khác để clone code trên github vừa tạo về. 
+Chỉnh sửa hoặc thêm file trong đó rồi sau đó push lên lại.
+
+

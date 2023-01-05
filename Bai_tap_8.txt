@@ -1,0 +1,11 @@
+1. Account github A tạo một Repository trên github tên là JavaCode. Sau đó kết nối giữa Local Repo và Github Repo
+
+2. Dùng Account github B, truy cập vào Repo trên. Sau đó vào mục Issue trên menu và tạo issue.
+
+3. Account github A sẽ review sau đó có thể cập nhật lại code và close issue. Dùng accoutn github B để quan sat issue vừa rồi.
+
+
+
+
+
+

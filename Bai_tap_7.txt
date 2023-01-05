@@ -1,0 +1,13 @@
+1. Account github A tạo một Repository trên github. Sau đó kết nối giữa Local Repo và Github Repo
+
+2. Account github B folk code về Repo của mình. Chỉnh sửa và sau đó gởi một Pull Request lên Repo account github A.
+
+3. Account github A sẽ review sau đó merge code vào Repo của mình. Ở local của account github A, pull code mới nhất về.
+
+
+
+
+
+
+
+
